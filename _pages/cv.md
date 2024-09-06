@@ -9,6 +9,6 @@ cv_pdf: Diego_Guzman_CV.pdf
 #   sidebar: left
 ---
 
----
 Please feel free to download my CV if you'd like to learn more about my background and experience.
+
 ---
