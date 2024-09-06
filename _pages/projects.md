@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-## Database for UCI Capstone Projects  
+## [Database for UCI Capstone Projects](https://icscapstonearchive.org)
 **Technologies**: React.js, JavaScript, MongoDB, HTML, CSS  
 **Duration**: Mar. 2024 – June 2024
 
@@ -19,7 +19,7 @@ horizontal: false
 
 ---
 
-## Spotify Interface Browser  
+## [Spotify Interface Browser](https://github.com/DiegoGuz10/Spotify_Browser)  
 **Technologies**: Node.js, TypeScript, Angular, HTML, CSS  
 **Duration**: Nov. 2023 – Dec. 2023
 
@@ -29,10 +29,10 @@ horizontal: false
 
 ---
 
-## Runkeeper Tweet Report  
+## [Runkeeper Tweet Report](https://diegoguz10.github.io/tweet_runkeeper/index.html)  
 **Technologies**: JavaScript, HTML, CSS  
 **Duration**: Oct. 2023 – Nov. 2023
 
-- Analyzed 8,247 tweets mentioning the Runkeeper app and categorized them by activity type.
+- Analyzed **8,247** tweets mentioning the Runkeeper app and categorized them by activity type.
 - Discovered trends in the data and visualized them using Vega-Lite.
 - Developed a dynamic search table that updates based on keyword filtering of tweets.
