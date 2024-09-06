@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 ## Programming with Software Libraries  
+**Role**: Learning Assistant
 **Duration**: Jan. 2023 – Mar. 2023 & Mar. 2024 – June 2024
 
 - Taught Python programming concepts to a total of 65 undergraduate students across 2 quarters.
@@ -16,8 +17,9 @@ nav_order: 2
 
 ---
 
-## Programming with Software Libraries Accelerated  
-**Duration**:Sep. 2023 – Dec. 2023
+## Programming with Software Libraries Accelerated 
+**Role**: Learning Assistant 
+**Duration**: Sep. 2023 – Dec. 2023
 
 - Taught Python programming concepts to 50 undergraduate students, primarily third-year transfers and freshmen with prior programming experience.
 - Assisted with debugging Python programs.
