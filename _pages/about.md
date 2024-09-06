@@ -6,20 +6,16 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Diego_Guzman_Picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Irvine, CA</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a rising senior Informatics student at the University of California, Irvine (UCI), specializing in Human-Computer Interaction (HCI) and minoring in Information and Computer Science. Alongside my studies, I am actively involved in undergraduate research at the [Social & Technological Action Research (STAR) Lab](https://www.star-uci.org/), advised by [Dr. Jesus Armando Beltran Verdugo](https://www.linkedin.com/in/abeltran23/) and [Dr. Gillian Hayes](https://www.gillianhayes.com/). Recently, I completed a stint as a Visiting Undergraduate Researcher at the University of California, Berkeley (UCB) at the [EPIC Data Lab](https://epic.berkeley.edu/) advised by [Dr. Yiming Lin](https://yiminglin18.com/) and [Dr. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interest lies in empowering individuals with disabilities by developing accessible and interactive technologies that help them overcome physical and cognitive barriers in their daily lives. I approach this goal through various aspects of Computer Science, particularly focusing on HCI, user interfaces and information retrieval.
