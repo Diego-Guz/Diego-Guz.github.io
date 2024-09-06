@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# Programming with Software Libraries  
+## Programming with Software Libraries  
 **University of California, Irvine**  
 **Jan. 2023 – Mar. 2023 & Mar. 2024 – June 2024**  
 Irvine, CA
@@ -18,7 +18,7 @@ Irvine, CA
 
 ---
 
-# Programming with Software Libraries Accelerated  
+## Programming with Software Libraries Accelerated  
 **University of California, Irvine**  
 **Sep. 2023 – Dec. 2023**  
 Irvine, CA
