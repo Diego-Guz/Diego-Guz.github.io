@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: Diego_Guzman_CV.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: Feel free to download my CV if you'd like to learn more about my background and experience.
+# toc:
+#   sidebar: left
 ---
