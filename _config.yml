@@ -198,6 +198,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  courses:
+    output: true
+    permalink: /courses/:title/
 
 announcements:
   enabled: true
