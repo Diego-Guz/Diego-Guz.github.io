@@ -9,57 +9,32 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+# Projects
 
-{% else %}
+## Database for UCI Capstone Projects  
+**Technologies**: React.js, JavaScript, MongoDB, HTML, CSS  
+**Duration**: Mar. 2024 – June 2024
 
-<!-- Display projects without categories -->
+- Designed and implemented the web interfaces, enhancing user experience and engagement.
+- Developed a secure login verification system to ensure only authorized users can access the platform.
+- Fortified database endpoints to protect against unauthorized access and potential security threats.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+---
 
-  <!-- Generate cards for each project -->
+## Spotify Interface Browser  
+**Technologies**: Node.js, TypeScript, Angular, HTML, CSS  
+**Duration**: Nov. 2023 – Dec. 2023
 
-{% if page.horizontal %}
+- Integrated Spotify’s API with Angular to dynamically display information about albums, songs, and artists.
+- Processed and filtered JSON data to extract specific information from Spotify’s API.
+- Developed a user-friendly search interface that showcases results directly from Spotify’s API.
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+---
+
+## Runkeeper Tweet Report  
+**Technologies**: JavaScript, HTML, CSS  
+**Duration**: Oct. 2023 – Nov. 2023
+
+- Analyzed 8,247 tweets mentioning the Runkeeper app and categorized them by activity type.
+- Discovered trends in the data and visualized them using Vega-Lite.
+- Developed a dynamic search table that updates based on keyword filtering of tweets.
