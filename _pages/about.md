@@ -11,7 +11,7 @@ profile:
   image: Diego_Guzman_Picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Undergraduate Student at UCI</p>
+    <p>UCI Undergraduate Student</p>
     <p>guzmand7[at]uci[dot]edu</p>
     <p>Irvine, CA</p>
 
