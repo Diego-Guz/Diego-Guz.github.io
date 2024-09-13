@@ -24,5 +24,5 @@ Hello and welcome! I am currently a rising senior Informatics student at the Uni
 
 Broadly, my research interest lies in empowering individuals with disabilities by developing accessible and interactive technologies that help them overcome physical and cognitive barriers in their daily lives. I approach this goal through various aspects of Computer Science, particularly focusing on HCI, user interfaces and information retrieval. 
 
-If you'd like to learn more about my background and experience, please feel free to download my [resume here](assets/pdf/Diego_Guzman_CV.pdf)!
+If you'd like to learn more about my background and experience, please feel free to download my [CV here](assets/pdf/Diego_Guzman_CV.pdf)!
 
