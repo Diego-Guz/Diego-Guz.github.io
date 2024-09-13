@@ -9,8 +9,8 @@ last_name:
 email: guzmand7@uci.edu
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #   Hello
-# footer_text: >
-#   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text: >
+  Website modified from <a href="https://github.com/alshedivat/al-folio">here!</a>.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Diego Guzman, UC Irvine, UCI, Research, UCLEADS, UCLeads # add your own keywords or leave empty
