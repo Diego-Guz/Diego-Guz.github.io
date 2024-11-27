@@ -29,7 +29,7 @@ horizontal: false
 
 ---
 
-## [Runkeeper Tweet Report](https://diegoguz10.github.io/tweet_runkeeper/index.html)  
+## [Runkeeper Tweet Report](https://www.diegoguzman.net/tweet_runkeeper/)  
 **Technologies**: JavaScript, HTML, CSS  
 **Duration**: Oct. 2023 – Nov. 2023
 
