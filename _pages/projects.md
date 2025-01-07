@@ -19,7 +19,7 @@ horizontal: false
 
 ---
 
-## [Spotify Interface Browser](https://github.com/DiegoGuz10/Spotify_Browser)  
+<!-- ## [Spotify Interface Browser](https://github.com/DiegoGuz10/Spotify_Browser)  
 **Technologies**: Node.js, TypeScript, Angular, HTML, CSS  
 **Duration**: Nov. 2023 – Dec. 2023
 
@@ -27,7 +27,7 @@ horizontal: false
 - Processed and filtered JSON data to extract specific information from Spotify’s API.
 - Developed a user-friendly search interface that showcases results directly from Spotify’s API.
 
----
+--- -->
 
 ## [Runkeeper Tweet Report](https://www.diegoguzman.net/tweet_runkeeper/)  
 **Technologies**: JavaScript, HTML, CSS  
