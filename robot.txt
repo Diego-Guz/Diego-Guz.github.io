@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /assets/pdf/CV%20-%20Diego%20Guzman.pdf
