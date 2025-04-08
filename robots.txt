@@ -2,3 +2,4 @@ User-agent: *
 Disallow:
 
 Sitemap: https://Diego-Guz.github.io/sitemap.xml
+/assets/pdf/CV%20-%20Diego%20Guzman.pdf
