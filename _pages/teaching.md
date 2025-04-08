@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-## Programming with Software Libraries  
+## Information Visualization
 **Role**: Learning Assistant  
 **Duration**: Mar. 2025 - Present
 
