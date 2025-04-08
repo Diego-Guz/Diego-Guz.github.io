@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 ## Information Visualization
-**Role**: Learning Assistant  
+**Role**: Reader  
 **Duration**: Mar. 2025 - Present
 
 - Teaching information visualization techniques for approximately **50** students through regular office hours.
