@@ -1,8 +1,9 @@
 ---
 permalink: /robots.txt
+layout: null
 ---
-User-agent: *
-Disallow:
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
-/assets/pdf/CV%20-%20Diego%20Guzman.pdf
+User-agent: *
+Disallow: /assets/pdf/CV%20-%20Diego%20Guzman.pdf
+
+Sitemap: https://www.diegoguzman.net/sitemap.xml
