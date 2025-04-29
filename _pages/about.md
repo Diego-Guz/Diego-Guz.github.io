@@ -8,7 +8,7 @@ permalink: /
 
 profile:
   align: right
-  image: Diego_Guzman_Picture.jpg
+  image: Diego_Guzman_Picture.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>UCI Undergraduate Student</p>
