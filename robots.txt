@@ -1,5 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /assets/pdf/CV%20-%20Diego%20Guzman.pdf
 
-Sitemap: https://Diego-Guz.github.io/sitemap.xml
-/assets/pdf/CV%20-%20Diego%20Guzman.pdf
+Sitemap: https://www.diegoguzman.net/sitemap.xml
