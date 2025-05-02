@@ -10,7 +10,7 @@ email: guzmand7@uci.edu
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #   Hello
 footer_text: >
-  Website modified from <a href="https://github.com/alshedivat/al-folio">here!</a>
+  Website forked and modified from <a href="https://github.com/alshedivat/al-folio">here!</a>
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Diego Guzman, UC Irvine, UCI, Research, UCLEADS, UCLeads, Emory University, Emory, Irvine, UC Leads # add your own keywords or leave empty
@@ -489,7 +489,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap"
   highlightjs:
     integrity:
       css:
