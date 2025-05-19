@@ -25,5 +25,5 @@ Hello and welcome! I am currently a senior Informatics student at UC Irvine, spe
 Broadly, my current research interests include Human-Computer Interaction, Ubiquitous Computing, and
 applied Machine Learning in the domain of Assistive Technology. More specially, I aim to empower individuals with disabilities by developing accessible and interactive technologies that help them overcome physical and cognitive barriers in their daily lives.
 
-If you'd like to learn more about my background and experience, please feel free to download my [CV here!](assets/pdf/CV - Diego Guzman.pdf) (Last Updated: April 2025)
+If you'd like to learn more about my background and experience, please feel free to download my [CV here!](assets/pdf/CV - Diego Guzman.pdf) (Last Updated: May 2025)
 
