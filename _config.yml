@@ -261,7 +261,7 @@ plugins:
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
-  - jekyll-minifier
+  #- jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
@@ -648,9 +648,9 @@ jsonresume:
   - interests
   - references
 
-# -----------------------------------------------------------------------------
-# Disable JS minification
-# -----------------------------------------------------------------------------
-html_compressor:
-  compress_css:        true   # you can leave CSS compression on if you like
-  compress_javascript: false  # ← this disables Uglifier entirely
+# # -----------------------------------------------------------------------------
+# # Disable JS minification
+# # -----------------------------------------------------------------------------
+# html_compressor:
+#   compress_css:        true   # you can leave CSS compression on if you like
+#   compress_javascript: false  # ← this disables Uglifier entirely
