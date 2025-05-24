@@ -647,3 +647,10 @@ jsonresume:
   - languages
   - interests
   - references
+
+# -----------------------------------------------------------------------------
+# Disable JS minification
+# -----------------------------------------------------------------------------
+html_compressor:
+  compress_css:        true   # you can leave CSS compression on if you like
+  compress_javascript: false  # ← this disables Uglifier entirely
