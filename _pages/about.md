@@ -1,34 +1,29 @@
 ---
 layout: about
-title: about
+title: About
+# nav: true
+nav_order: 1
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  align: left
+  image: Diego_Guzman_Picture.png
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>UCI Undergraduate Student</p>
+    <p>guzmand7[at]uci[dot]edu</p>
+    <p>Irvine, CA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: true # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello and welcome! I am currently a senior Informatics student at UC Irvine, specializing in Human-Computer Interaction and minoring in Information and Computer Sciences. Alongside my studies, I am actively involved in undergraduate research at the [Social & Technological Action Research (STAR) Lab](https://www.star-uci.org/), advised by [Dr. Jesus Armando Beltran Verdugo](https://sites.google.com/view/armandobeltran/), [Dr. Franceli Cibrian](https://sites.google.com/view/franceli-l-cibrian), and [Dr. Gillian Hayes](https://www.gillianhayes.com/). During the summer of 2024, I was an Undergraduate Research Intern at UC Berkeley's [EPIC Data Lab](https://epic.berkeley.edu/) advised by [Dr. Yiming Lin](https://yiminglin18.com/) and [Dr. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/). This upcoming fall, I will be starting my Ph.D. in Computer Science and Informatics at Emory University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Broadly, my current research interests include Human-Computer Interaction, Ubiquitous Computing, and
+applied Machine Learning in the domain of Assistive Technology. More specially, I aim to empower individuals with disabilities by developing accessible and interactive technologies that help them overcome physical and cognitive barriers in their daily lives.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you'd like to learn more about my background and experience, please feel free to download my [CV here!](assets/pdf/CV - Diego Guzman.pdf) (Last Updated: May 2025)
+
