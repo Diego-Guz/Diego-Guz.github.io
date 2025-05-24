@@ -261,7 +261,8 @@ plugins:
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
-  - jekyll-minifier
+  # - jekyll-minifier
+  - jekyll-terser  
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
@@ -285,10 +286,10 @@ sass:
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
 
-jekyll-minifier:
-  exclude: ["robots.txt", "assets/js/search/*.js"]
-  uglifier_args:
-    harmony: true
+# jekyll-minifier:
+#   exclude: ["robots.txt", "assets/js/search/*.js"]
+#   uglifier_args:
+#     harmony: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives
