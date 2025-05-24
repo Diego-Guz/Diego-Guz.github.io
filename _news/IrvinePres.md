@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented "How Can ChatGPT Be Used As A Tool In Qualitative Analysis" at the University of California, Irvine Summer Undergraduate Research Fellowship Symposium at Irvine, CA :tangerine:
+resented "How Can ChatGPT Be Used As A Tool In Qualitative Analysis" at the University of California, Irvine Summer Undergraduate Research Fellowship Symposium at Irvine, CA :tangerine:
