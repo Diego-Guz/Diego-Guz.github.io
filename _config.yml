@@ -262,7 +262,7 @@ plugins:
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
   # - jekyll-minifier
-  - jekyll-terser  
+  # - jekyll-terser  
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
