@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented "Document Clustering of Police Records: Enhancing Transparency and Accessibility" at the University of California, Berkeley Summer Undergraduate Research Fellowship Symposiumt Berkeley, CA :bridge_at_night:
+Presented "Document Clustering of Police Records: Enhancing Transparency and Accessibility" at the University of California, Berkeley Summer Undergraduate Research Fellowship Symposiumt Berkeley, CA. :bridge_at_night:

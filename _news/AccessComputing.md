@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [AccessComputing](https://www.washington.edu/accesscomputing/) as a student member :tada:
+Joined [AccessComputing](https://www.washington.edu/accesscomputing/) as a student member. :tada:

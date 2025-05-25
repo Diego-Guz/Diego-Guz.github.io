@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented "Using Large Language Models to Augment Reflective Thematic Analysis for Semi-Structured Interviews" at the National Conference on Undergraduate Research at Long Beach, CA :palm_tree:
+Presented "Using Large Language Models to Augment Reflective Thematic Analysis for Semi-Structured Interviews" at the National Conference on Undergraduate Research at Long Beach, CA. :palm_tree:
