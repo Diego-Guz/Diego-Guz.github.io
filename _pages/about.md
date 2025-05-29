@@ -23,8 +23,7 @@ Hello and welcome! I am a senior at UC Irvine majoring in Informatics with a spe
 
 During the summer of 2024, I worked as an Undergraduate Research Intern at UC Berkeley's [EPIC Data Lab](https://epic.berkeley.edu/) mentored by [Dr. Yiming Lin](https://yiminglin18.com/) and [Dr. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/). This upcoming fall, I will begin my Ph.D. in Computer Science and Informatics at Emory University.
 
-My current research interests include Human-Computer Interaction, Ubiquitous Computing, and
-applied Machine Learning in the domain of Assistive Technology. More specifically, I am passionate about creating accessible, interactive systems that support individuals with disabilities in overcoming everyday physical and cognitive challenges.
+My current research interests include Human-Computer Interaction, Ubiquitous Computing, and Embedded Systems in the domain of Assistive Technology. More specifically, I am passionate about creating accessible, interactive systems that support individuals with disabilities in overcoming everyday physical and cognitive challenges.
 
 Please feel free to reach out if you would like to connect! You can also download my [CV](assets/pdf/CV - Diego Guzman.pdf) to learn more about my background and experience. (CV last updated: May 2025)
 
