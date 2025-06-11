@@ -11,7 +11,7 @@ profile:
   image: Diego_Guzman_Picture.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><small>Incoming Ph.D. Student at Emory University<small></p>
+    <p>Incoming Ph.D. Student at Emory University</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
