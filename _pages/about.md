@@ -12,7 +12,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><small>Incoming Ph.D. Student at Emory University<small></p>
-    <p><small>diego.guzman.gonzalez[at]emory[dot]edu<small></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -23,7 +22,7 @@ Hello and welcome! I am a senior at UC Irvine majoring in Informatics with a spe
 
 My current research interests include Human-Computer Interaction, Ubiquitous Computing, and Embedded Systems in the domain of Assistive Technology. More specifically, I am passionate about creating accessible, interactive systems that support individuals with disabilities in overcoming everyday physical and cognitive challenges.
 
-Please feel free to reach out if you would like to connect! You can also download my [CV](assets/pdf/CV - Diego Guzman.pdf) to learn more about my background and experience. (CV last updated: May 2025)
+Please feel free to reach out via email at diego.guzman.gonzalez[at]emory[dot]edu if you would like to connect! You can also download my [CV](assets/pdf/CV - Diego Guzman.pdf) to learn more about my background and experience. (CV last updated: June 2025)
 
 
 
