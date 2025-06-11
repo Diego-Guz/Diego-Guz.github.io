@@ -22,7 +22,6 @@ Hello and welcome! I am a senior at UC Irvine majoring in Informatics with a spe
 
 My current research interests include Human-Computer Interaction, Ubiquitous Computing, and Embedded Systems in the domain of Assistive Technology. More specifically, I am passionate about creating accessible, interactive systems that support individuals with disabilities in overcoming everyday physical and cognitive challenges.
 
-Please feel free to connect with me via email at diego.guzman.gonzalez[at]emory[dot]edu! You can also download my [CV](assets/pdf/CV - Diego Guzman.pdf) to learn more about my background and experience. (CV last updated: June 2025)
-
+To learn more about my background and experience, please feel free to download my [CV](assets/pdf/CV - Diego Guzman.pdf). It also includes my email and LinkedIn if you would like to get in touch. (CV last updated: June 2025)
 
 
