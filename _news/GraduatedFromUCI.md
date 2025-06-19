@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Officially graduated from UC Irvine! Forever an anteater! :heart:
+Finally graduated from UC Irvine! Forever an anteater! :heart:
