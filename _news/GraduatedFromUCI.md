@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Finally graduated from UC Irvine! Forever an anteater! :heart:
+Officially graduated from UC Irvine! Forever an anteater!  
+<span style="color:#0077BE;">💙</span> <span style="color:#FFD200;">💛</span>
