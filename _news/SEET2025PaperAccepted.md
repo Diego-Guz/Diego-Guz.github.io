@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that our paper "Exploring manifold-based clustering techniques for enhanced inductive thematic analysis" has been accepted to the International Conference on Software Engineering of Emerging Technologies (SEET 2025)! ✨
+Excited to share that our paper "Exploring Manifold-Based Clustering Techniques for Enhanced Inductive Thematic Analysis" has been accepted to the 1<sup>st</sup> International Conference on Software Engineering of Emerging Technologies (SEET 2025)! ✨
