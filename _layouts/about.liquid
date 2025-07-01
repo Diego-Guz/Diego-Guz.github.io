@@ -41,19 +41,8 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- Selected Publications -->
-{% assign selected_pubs = site.publications | where: "selected", true %}
-{% if selected_pubs.size > 0 %}
-  <h2>Selected Publications</h2>
-  <ul class="pub-list">
-    {% for pub in selected_pubs %}
-      <li>
-        <strong>{{ pub.title }}</strong><br />
-        {{ pub.author }}<br />
-        <em>{{ pub.booktitle }}</em>{% if pub.location %}, {{ pub.location }}{% endif %}, {{ pub.year }}
-      </li>
-    {% endfor %}
-  </ul>
-{% endif %}
+<h2>Selected Publications</h2>
+{% bibliography -f publications -q @*[selected=true]* %}
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
