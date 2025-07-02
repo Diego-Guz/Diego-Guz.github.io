@@ -8,7 +8,7 @@ permalink: /
 
 profile:
   align: left
-  image: Diego_Guzman_Picture.png
+  image: BookIcon.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Incoming Computer Science and Informatics Ph.D. Student at Emory University</p>
