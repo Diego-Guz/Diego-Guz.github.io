@@ -9,21 +9,21 @@ nav_order: 2
 
 ## Information Visualization
 **Role**: Reader  
-**Duration**: Mar. 2025 – Present
+**Duration**: Mar. 2025 – Jun. 2025
 
-- Teaching information visualization techniques for approximately **50** students through regular office hours.
-- Providing grading support and feedback on student assignments.
-- Collaborating on continuous updates and enhancements to course materials.
+- Taught information visualization techniques for approximately **50** students through regular office hours.
+- Provided grading support and feedback on student assignments.
+- Collaborated on continuous updates and enhancements to course materials.
 
 ---
 
 ## Programming with Software Libraries  
 **Role**: Learning Assistant  
-**Duration**: Jan. 2023 – Mar. 2023, Mar. 2024 – June 2024, and Mar. 2025 - Present
+**Duration**: Jan. 2023 – Mar. 2023, Mar. 2024 – June 2024, and Mar. 2025 - Jun. 2025
 
-- Teaching Python programming concepts to a cumulative total of **85** undergraduate students across 3 quarters, most of whom were freshmen and sophomores with little to no prior programming experience.
-- Assisting undergraduate students with the debugging of their Python programs.
-- Aiding undergraduate students in learning how to use Git.
+- Taught Python programming concepts to a cumulative total of **85** undergraduate students across 3 quarters, most of whom were freshmen and sophomores with little to no prior programming experience.
+- Assisted undergraduate students with the debugging of their Python programs.
+- Aided undergraduate students in learning how to use Git.
 
 ---
 
