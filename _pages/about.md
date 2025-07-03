@@ -22,6 +22,6 @@ Hello and welcome! I recently graduated from UC Irvine with a degree in Informat
 
 My current research interests include Human-Computer Interaction, Ubiquitous Computing, and Embedded Systems in the domain of Assistive Technology. More specifically, I am passionate about creating accessible, interactive systems that support individuals with disabilities in overcoming everyday physical and cognitive challenges.
 
-To learn more about my background and experience, please feel free to download my [CV](assets/pdf/CV - Diego Guzman.pdf). It also includes my email and LinkedIn if you would like to get in touch. (CV last updated: July 2025)
+Outside of academia, you can find me hiking, binge-watching cooking shows, or rooting for the Dodgers. 
 
 
