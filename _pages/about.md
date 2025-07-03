@@ -22,6 +22,6 @@ Hello and welcome! I recently graduated from UC Irvine with a degree in Informat
 
 My current research interests include Human-Computer Interaction, Ubiquitous Computing, and Embedded Systems in the domain of Assistive Technology. More specifically, I am passionate about creating accessible, interactive systems that support individuals with disabilities in overcoming everyday physical and cognitive challenges.
 
-Outside of academia, you can find me hiking, binge-watching cooking shows, or rooting for the Dodgers. 
+Outside of academia, you can find me hiking, binge-watching cooking shows, or rooting for the LA Dodgers. 
 
 
