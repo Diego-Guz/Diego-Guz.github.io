@@ -11,7 +11,7 @@ profile:
   image: Diego_Guzman_Picture.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Incoming Computer Science and Informatics Ph.D. Student at Emory University</p>
+    <p>Incoming Ph.D. Student in Computer Science and Informatics at Emory University</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
