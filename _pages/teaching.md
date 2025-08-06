@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 ## Information Visualization
-**Role**: Reader  
+**Role**: Course Grader  
 **Duration**: Mar. 2025 – Jun. 2025
 
 - Taught information visualization techniques for approximately **50** students through regular office hours.
