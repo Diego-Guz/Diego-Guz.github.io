@@ -11,8 +11,8 @@ nav_order: 2
 **Role**: Course Grader  
 **Duration**: Mar. 2025 – Jun. 2025
 
-- Taught information visualization techniques for approximately **50** students through regular office hours.
 - Provided grading support and feedback on student assignments.
+- Taught information visualization techniques for approximately **50** students through regular office hours.
 - Collaborated on continuous updates and enhancements to course materials.
 
 ---
