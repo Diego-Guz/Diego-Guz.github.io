@@ -21,7 +21,7 @@ nav_order: 2
 **Role**: Learning Assistant  
 **Duration**: Jan. 2023 – Mar. 2023, Mar. 2024 – June 2024, and Mar. 2025 - Jun. 2025
 
-- Taught Python programming concepts to a cumulative total of **85 undergraduate students** across 3 quarters, most of whom were freshmen and sophomores with little to no prior programming experience.
+- Taught Python programming concepts to a cumulative total of **85 undergraduate students** across **3 quarters**, most of whom were freshmen and sophomores with little to no prior programming experience.
 - Assisted undergraduate students with the debugging of their Python programs.
 - Aided undergraduate students in learning how to use Git.
 
