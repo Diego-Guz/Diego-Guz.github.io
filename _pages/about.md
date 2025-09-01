@@ -24,6 +24,6 @@ I recently graduated from UC Irvine with a Bachelor of Science in Informatics wi
 
 Outside of academia, you can find me hiking, binge-watching cooking shows, rooting for the LA Dodgers, and spending time with my wonderful girlfriend :relaxed:. 
 
-**Contact**: I am always open to research collaborations and broader conversations about life. Please feel free to reach out to me via email at diego[dot]guzman[dot]gonzalez[at]emory[dot]edu.
+**Contact**: I am always open to research collaborations and broader conversations about life. Please feel free to reach out to me via email at **diego**[dot]**guzman**[dot]**gonzalez**[at]**emory**[dot]**edu**.
 
 
