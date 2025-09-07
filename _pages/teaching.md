@@ -23,7 +23,7 @@ nav_order: 2
 
 - Taught Python programming concepts to a cumulative total of **85 undergraduate students** that were primarily freshmen and sophomores with limited experience across **Winter '23, Spring '24, and Spring '25**
 - Aided undergraduate students in learning how to use Git
-- Assisted in proctoring a **159-student final exam** during \textbf{Spring ’25}
+- Assisted in proctoring a **159-student final exam** during **Spring ’25**
 
 ---
 
