@@ -11,9 +11,9 @@ nav_order: 2
 **Role**: Course Grader  
 **Duration**: Mar. 2025 – Jun. 2025
 
-- Provided grading support and feedback on student assignments.
-- Taught information visualization techniques for approximately **50 students** through regular office hours.
-- Collaborated on continuous updates and enhancements to course materials.
+- Graded and provided constructive feedback on roughly **125 assignments** at a time
+- Taught information visualization techniques for approximately **50 students** through regular office hours
+- Collaborated on continuous updates and enhancements to course materials
 
 ---
 
@@ -22,8 +22,8 @@ nav_order: 2
 **Duration**: Jan. 2023 – Jun. 2025 (3 quarters)
 
 - Taught Python programming concepts to a cumulative total of **85 undergraduate students** that were primarily freshmen and sophomores with limited experience across **Winter '23, Spring '24, and Spring '25**
-- Assisted undergraduate students with the debugging of their Python programs.
-- Aided undergraduate students in learning how to use Git.
+- Aided undergraduate students in learning how to use Git
+- Assisted in proctoring a **159-student final exam** during \textbf{Spring ’25}
 
 ---
 
@@ -31,6 +31,6 @@ nav_order: 2
 **Role**: Undergraduate Learning Assistant  
 **Duration**: Sep. 2023 – Dec. 2023
 
-- Taught Python programming concepts to **50 undergraduate students** that were primarily third year transfers and freshmen with prior programming experience.
-- Assisted undergraduate students with the debugging of their Python programs.
-- Helped undergraduate students transition from their prior programming experiences in languages such as Java and JavaScript to Python.
+- Taught Python programming concepts to **50 undergraduate students** that were primarily third year transfers and freshmen with prior programming experience
+- Led small debugging sessions with **focused groups of 3 to 5 students** at a time
+- Helped undergraduate students transition from their prior programming experiences in languages such as Java and JavaScript to Python
