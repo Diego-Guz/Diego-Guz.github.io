@@ -12,7 +12,7 @@ nav_order: 2
 **Duration**: Mar. 2025 – Jun. 2025
 
 - Graded and provided constructive feedback on roughly **125 assignments** at a time
-- Taught information visualization techniques for approximately **50 students** through regular office hours
+- Responded to course-related questions on EdDiscussion, assisting an average of **10 students** per week
 - Collaborated on continuous updates and enhancements to course materials
 
 ---
