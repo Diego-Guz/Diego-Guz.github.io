@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-#### Information Visualization
+###### Information Visualization
 **Role**: Course Grader  
 **Duration**: Mar. 2025 – Jun. 2025
 
@@ -17,7 +17,7 @@ nav_order: 2
 
 ---
 
-#### Programming with Software Libraries  
+###### Programming with Software Libraries  
 **Role**: Undergraduate Learning Assistant  
 **Duration**: Jan. 2023 – Jun. 2025 (3 quarters)
 
@@ -27,7 +27,7 @@ nav_order: 2
 
 ---
 
-#### Programming with Software Libraries Accelerated 
+###### Programming with Software Libraries Accelerated 
 **Role**: Undergraduate Learning Assistant  
 **Duration**: Sep. 2023 – Dec. 2023
 
