@@ -42,17 +42,17 @@ layout: default
 
    <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h6>
+      <h4>
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
-      </h6>
+      </h4>
       {% include selected_papers.liquid %}
     {% endif %}
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
-      <h6>
+      <h4>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">Recent News</a>
-      </h6>
+      </h4>
       {% include news.liquid limit=true %}
     {% endif %}
 
