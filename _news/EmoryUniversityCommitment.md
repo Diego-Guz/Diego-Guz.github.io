@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Officially accepted my offer to join Emory University's Ph.D. program in [Computer Science and Informatics](https://computerscience.emory.edu/graduate-phd/index.html)! :tada:
+Officially accepted my offer to join Emory University's Ph.D. program in [Computer Science](https://computerscience.emory.edu/graduate-phd/index.html)! :tada:
