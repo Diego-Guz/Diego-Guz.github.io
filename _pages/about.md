@@ -22,8 +22,6 @@ Hello and welcome! I am a first-year Computer Science and Informatics Ph.D. Stud
 
 I recently graduated from UC Irvine with a Bachelor of Science in Informatics with a specialization in Human-Computer Interaction and a minor in Information and Computer Sciences. During my time at UC Irvine, I was actively involved in undergraduate research at the [Social & Technological Action Research (STAR) Lab](https://www.star-uci.org/), where I was fortunate to be advised by [Dr. Jesus Armando Beltran Verdugo](https://sites.google.com/view/armandobeltran/), [Dr. Franceli Cibrian](https://sites.google.com/view/franceli-l-cibrian), and [Dr. Gillian Hayes](https://www.gillianhayes.com/). In the summer of 2024, I worked as an Undergraduate Research Intern at UC Berkeley's [EPIC Data Lab](https://epic.berkeley.edu/) mentored by [Dr. Yiming Lin](https://yiminglin18.com/) and [Dr. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/).
 
-Outside of academia, you can find me enjoying nature, binge-watching cooking shows, rooting for the LA Dodgers, and spending time with my wonderful girlfriend :relaxed:. 
-
 **Contact**: I am always open to research collaborations and broader conversations about life. Please feel free to reach out to me via email at **diego**[dot]**guzman**[dot]**gonzalez**[at]**emory**[dot]**edu**.
 
 
