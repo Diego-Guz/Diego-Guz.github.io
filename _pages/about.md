@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello and welcome! I am a first-year Computer Science and Informatics Ph.D. Student at Emory University. My research focuses on using Ubiquitous Computing as a means to enhancing human agency for individuals with physical and cognitive impairments. I am also fortunate and privileged to be a NIH NIGMS IMSD Fellow.
+Hello and welcome! I am a first-year Computer Science and Informatics Ph.D. Student at Emory University. My research focuses on using Tangiable and Ubiquitous Computing as a means to enhancing human agency for individuals with physical and cognitive impairments. I am also fortunate and privileged to be a NIH NIGMS IMSD Fellow.
 
 I recently graduated from UC Irvine with a Bachelor of Science in Informatics with a specialization in Human-Computer Interaction and a minor in Information and Computer Sciences. During my time at UC Irvine, I was actively involved in undergraduate research at the [Social & Technological Action Research (STAR) Lab](https://www.star-uci.org/), where I was fortunate to be advised by [Dr. Jesus Armando Beltran Verdugo](https://sites.google.com/view/armandobeltran/), [Dr. Franceli Cibrian](https://sites.google.com/view/franceli-l-cibrian), and [Dr. Gillian Hayes](https://www.gillianhayes.com/). In the summer of 2024, I worked as an Undergraduate Research Intern at UC Berkeley's [EPIC Data Lab](https://epic.berkeley.edu/) mentored by [Dr. Yiming Lin](https://yiminglin18.com/) and [Dr. Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/).
 
