@@ -258,6 +258,22 @@
       
 
       
+      Jesus A.
+            Beltran, Hanna
+            Mofid, Harita
+            Parikh, and
+        <span class="more-authors" title="click to view 5 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '5 more authors' ? 'Jaydeep Gondaliya, Diego Guzman, Jenil Shah, Lizbeth Escobedo, Franceli Cibrian' : '5 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">5 more authors</span>
       
       
     </div>
